@@ -31,6 +31,3 @@
    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="270" alt="Coding Cat">
 
 
-### 🏆 Achievements
-- Contributed to [XYZ Open-Source Project](https://github.com/lxrneo7/open-source)
-- Built a fully-featured booking system for internal use at Innovatix
