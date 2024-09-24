@@ -24,8 +24,6 @@
   - ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 
  ### 🔭 Current Projects
-- [My Awesome React Project](https://github.com/lxrneo7/my-awesome-react-project) - An interactive web app using the latest tech stack.
-- [3D Portfolio](https://github.com/lxrneo7/3d-portfolio) - A visually rich portfolio using Three.js.
 
 
    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="270" alt="Coding Cat">
